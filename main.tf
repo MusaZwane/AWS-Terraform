@@ -12,6 +12,6 @@ cidr_block = "10.0.0.0/16"
 resource "aws_instance" "Kubernetes1" {
 
 instance_type = "t2.micro"
-ami = "ami-02b0c55eeae6d5096"
+ami = "xxxx"
 
 }
